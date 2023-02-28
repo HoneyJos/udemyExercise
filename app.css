@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+
+}
+
+form {
+    display: inline;
+}
+
+div {
+    box-shadow: 1px 1px;
+}
+
+#score {
+    font-weight: 700;
+    font-size: 30px;
+}
